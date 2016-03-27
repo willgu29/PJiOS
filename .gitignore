@@ -1,0 +1,6 @@
+Pods
+.DS_Store
+xcuserdata
+profile
+DerivedData
+xcuserdata/*
